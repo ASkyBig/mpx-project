@@ -1,0 +1,25 @@
+<template>
+  <view> hello Mpx </view>
+</template>
+
+<script>
+  import { createPage } from '@mpxjs/core'
+
+  createPage({
+    onLoad() {
+      //
+    }
+  })
+</script>
+
+<style>
+  body {
+    height: calc(120px - 25px);
+  }
+</style>
+
+<script type="application/json">
+  {
+    "usingComponents": {}
+  }
+</script>

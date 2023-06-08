@@ -1,0 +1,34 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "functions/",
+  "compileType": "miniprogram",
+  "setting": {
+    "newFeature": true,
+    "urlCheck": true,
+    "es6": false,
+    "postcss": true,
+    "minified": false,
+    "checkSiteMap": false,
+    "autoAudits": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
+  },
+  "appid": "wxa2f9b9ddc11cb32e",
+  "projectname": "mpx-project",
+  "description": "A mpx project",
+  "condition": {},
+  "libVersion": "2.32.1",
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
